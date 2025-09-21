@@ -48,5 +48,5 @@ I'm always open to discussing new projects, interesting ideas, or opportunities 
 ---
 
 <div align="center">
-  <img src="https://github.com/nikolaystoilkov.png" width="80px" alt="Nikolay Stoilkov" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/37143199?s=400&u=45656edf4ca436abeb1a6d17a280746841f59b24&v=4" style="border-radius: 50%;" />
 </div>```
