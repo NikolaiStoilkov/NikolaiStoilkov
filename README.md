@@ -59,7 +59,8 @@ Here are some of the technologies and tools I frequently work with:
 
 I'm always open to discussing new projects, interesting ideas, or opportunities to contribute to meaningful technology. Feel free to reach out!
 
-*   **Email:** [nikolay.angelov.stoilkov@gmail.com](mailto:nikolay.angelov.stoilkov@gmail.com)
-*   **LinkedIn:** [https://www.linkedin.com/in/nikolay-stoilkov-5785b720b/](https://www.linkedin.com/in/nikolay-stoilkov-5785b720b/)
+
+*   <a href="mailto:nikolay.angelov.stoilkov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: nikolay.angelov.stoilkov@gmail.com" /></a>
+*   <a href="https://www.linkedin.com/in/nikolay-stoilkov-5785b720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
 ---
