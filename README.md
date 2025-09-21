@@ -55,6 +55,18 @@ Here are some of the technologies and tools I frequently work with:
 
 ---
 
+### 🌱 Currently Learning
+
+I'm actively expanding my knowledge in the following areas:
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-232323?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services (AWS)" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 I'm always open to discussing new projects, interesting ideas, or opportunities to contribute to meaningful technology. Feel free to reach out!
