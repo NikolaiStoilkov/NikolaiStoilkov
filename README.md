@@ -34,6 +34,23 @@ Here are some of the technologies and tools I frequently work with:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows-forms&logoColor=white" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Management" />
+  <img src="https://img.shields.io/badge/XML-60A5FA?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Store" />
+  <img src="https://img.shields.io/badge/AJAX-0A2C55?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Mobile_Applications-37B6F6?style=for-the-badge&logo=apple&logoColor=white" alt="Mobile Applications" />
+  <img src="https://img.shields.io/badge/WebSockets-1A1A1A?style=for-the-badge&logo=socket.io&logoColor=white" alt="Web Socket" />
+  <img src="https://img.shields.io/badge/REST_APIs-005C9C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma (Software)" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress.io" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore" />
 </p>
 
 ---
