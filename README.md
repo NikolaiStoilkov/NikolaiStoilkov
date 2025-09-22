@@ -76,3 +76,7 @@ I'm always open to discussing new projects, interesting ideas, or opportunities 
 *   <a href="https://www.linkedin.com/in/nikolay-stoilkov-5785b720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
 ---
+
+### Thank you for visiting!
+
+![Profile views](https://komarev.com/ghpvc/?username=NikolaiStoilkov&label=Profile%20views&color=064879&style=flat)
