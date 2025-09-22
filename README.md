@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a Full-Stack Software Engineer with a proven track record of developing impactful web and mobile applications. With experience as both a Junior and a Software Engineer, I've honed my skills in creating seamless user experiences and functional solutions. I'm enthusiastic about leveraging strong software engineering principles to drive meaningful changes through technology, always focusing on solutions that enhance accessibility and user engagement. My journey in software development is fueled by a commitment to excellence and a passion for continuous learning and adaptation.
+I'm a Full-Stack Software Engineer who loves building web and mobile applications. I enjoy using my skills to create user-friendly and impactful solutions. I'm passionate about programming and always learning new things to make technology better and more accessible.
 
 ---
 
