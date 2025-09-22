@@ -76,3 +76,9 @@ I'm always open to discussing new projects, interesting ideas, or opportunities 
 *   <a href="https://www.linkedin.com/in/nikolay-stoilkov-5785b720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
 ---
+
+### Thank you for visiting!
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://camo.githubusercontent.com/6b8faffbeb86c7b2c6256f5a8a66cce3f9164dd14891620aba91fceee4ff9986/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6172696f6e696b6f6c6f763137266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" />
+</a>
