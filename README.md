@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Maneza/Maneza/master/hi.gif" width="30px" alt="Hi" />
-  <h1>Hey there! I'm Nikolay Stoilkov</h1>
+  <h1>Hey there! I'm Nikolay</h1>
   <h3>A passionate Full-Stack Software Engineer dedicated to crafting robust and intuitive web and mobile applications.</h3>
 </div>
 
