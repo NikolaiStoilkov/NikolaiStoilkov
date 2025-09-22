@@ -76,8 +76,3 @@ I'm always open to discussing new projects, interesting ideas, or opportunities 
 *   <a href="https://www.linkedin.com/in/nikolay-stoilkov-5785b720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
 ---
-
-### Thank you for visiting!
-
- <a href='https://www.free-counters.org/'>free Counters on Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=42dbbbafff87827899a9634170cf9b280a245980'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1394368/t/1"></script>
